@@ -11,7 +11,7 @@ This addon is a fork of the following: https://ankiweb.net/shared/info/745191666
 - Windows: C:\Users\<Your Username>\AppData\Roaming\Anki2\addons21\ (or %APPDATA%\Anki2\addons21\)
 - Mac: ~/Library/Application Support/Anki2/addons21/
 - Linux: ~/.local/share/Anki2/addons21/ (or via Flatpak at ~/.var/app/net.ankiweb.Anki/data/Anki2/addons21/)
-4. Restart Anki.
+3. Restart Anki.
 
 ## Features
 
