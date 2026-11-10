@@ -42,7 +42,7 @@ When a deck is paused:
 
 When the scheduler day advances, the add-on shifts scheduled cards forward by the number of elapsed days. This prevents paused decks from accumulating due cards over time.  
 
-Newly discovered subdecks are automatically included in the pause.
+Newly found subdecks are automatically included in the pause.
 
 ### Unpause
 
