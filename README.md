@@ -13,12 +13,10 @@ This addon is a fork of the following: https://ankiweb.net/shared/info/745191666
 
 ## Features
 
-- Pause individual decks, including their subdecks.
-- Prevent new cards from becoming available while a deck is paused.
+Pause individual decks, including their subdecks.
 - Defer existing scheduled cards while the deck is paused.
 - Automatically catch up scheduling when Anki's scheduler day changes.
-- Restore normal new-card limits when a deck is unpaused.
-- Detect newly added subdecks and include them in the paused deck.
+- Prevent new cards from becoming available.
 
 ## Usage
 
@@ -40,7 +38,7 @@ When a deck is paused:
 
 ### While Paused
 
-When the scheduler day advances, the add-on shifts scheduled cards forward by the number of elapsed days. This prevents paused decks from accumulating due cards over time.
+When the scheduler day advances, the add-on shifts scheduled cards forward by the number of elapsed days. This prevents paused decks from accumulating due cards over time.  
 
 Newly discovered subdecks are automatically included in the pause.
 
