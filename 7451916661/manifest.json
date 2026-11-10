@@ -1,0 +1,8 @@
+{
+    "package": "pause-deck",
+    "name": "pause-deck",
+    "version": "1.2.0",
+    "homepage": "https://github.com/mitsuaki-41/pause-deck_anki-addon",
+    "conflicts": [],
+    "min_point_version": 231000
+}
