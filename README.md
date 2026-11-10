@@ -2,7 +2,7 @@
 
 While adding more decks to study is fine at first, the number of cards requiring review grows over time, often leading to an increasingly heavy daily workload. By allowing decks to be paused even in the middle of a study session, I aim to make learning more casual and flexible.
 
-This plugin is a fork of the following: https://ankiweb.net/shared/info/745191666
+This addon is a fork of the following: https://ankiweb.net/shared/info/745191666
 
 ## Installation
 
