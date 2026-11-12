@@ -1,10 +1,5 @@
 """
 pause-deck - Anki add-on
-
-Allows pausing individual decks. New cards are blocked with the per-deck
-"Today only" limit. Existing scheduled cards are moved forward by one scheduler
-day immediately and at each scheduler-day rollover. On unpause, one day is moved
-back and the temporary new-card limit is cleared.
 """
 
 import copy
